@@ -1,0 +1,40 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/StudentAttendance",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44347
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/AttendanceService",
+      "UpstreamHttpMethod": [ "GET", "PUT", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/StudentLecture",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44382
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/LectureService",
+      "UpstreamHttpMethod": [ "GET", "PUT", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/StudentAdmission",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44312
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/AdmissionService",
+      "UpstreamHttpMethod": [ "GET", "PUT", "POST" ]
+    }
+  ]
+}

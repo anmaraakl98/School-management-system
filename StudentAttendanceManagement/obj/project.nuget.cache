@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCEDx0ACcJ14WmcSHQsKrXWB7M3ratof1Rv9SAQmO63kki5fMu8OUaV3Ff0EvWO/3R2rsrHrof0h89u3si/iOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anmar\\Desktop\\New folder\\SchoolManagementSystem\\StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XldC7BalHVQ6BLFzRzGvQ8Gco1YFVg9zMU4yMZ3FSk9BHnsKt/qlrgTlOppNFEPuIRu87+M3Tm5X5Pdcpo5GWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anmar\\Desktop\\New folder\\SchoolManagementSystem\\StudentLectureManagement\\StudentLectureManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
